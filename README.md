@@ -29,6 +29,7 @@ For version 2 of this app, here are some features I want to add:
 - [ ] Search by pressing enter in the text box.
 - [ ] Migrate app to the Next.js app router.
 - [ ] Make sure the app scrolls as the text comes in.
+- [ ] End-to-end encryption: Enhance the security by implementing end-to-end encryption.
 
 Get inspo from:
 
